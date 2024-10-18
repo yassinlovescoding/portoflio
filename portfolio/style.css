@@ -1,12 +1,12 @@
 .projects{
-    background-color:#00001600 ;
+    background-color:#65c288 ;
 }
 .projects
 .content{
     margin-top: 30px;
 }
 .try{
-   color: red;
+   color: rgb(0, 200, 255);
 }
 .project_card{
     background-color: darkslategray;
