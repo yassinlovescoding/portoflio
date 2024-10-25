@@ -1,24 +1,38 @@
-.projects{
-    background-color:#00001600 ;
+body {
+  background-color: rgb(255, 212, 196);
+  font-family: "Times New Roman", Times, serif;
 }
-.projects
-.content{
-    margin-top: 30px;
+
+h1 {
+  color: grey;
 }
-.try{
-   color: blanchedalmond;
+
+nav ul {
+  background-color: lightsalmon;
+  border-style: solid;
+  border-color: white;
+  border-radius: 3px;
+  border-width: 5px;
 }
-.project_card{
-    background-color: rgb(12, 202, 101);
-    border: 1px solid rgb(97, 0, 97);
-    width: 23em;
-    min-height: 14em;
-    overflow: hidden;
-    border-radius: 10px;
-    margin: 20px;
-    
-    
+
+nav ul li {
+  list-style-type: none;
+  display: inline;
+  color: white;
 }
-.project_image img{
-    width: 130%;
+
+nav ul li a {
+  text-decoration: none;
+  color: green;
+}
+table {
+  color: purple;
+}
+
+table,
+th,
+td {
+  border-style: solid;
+  border-color: white;
+  border-width: 2px;
 }
