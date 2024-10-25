@@ -1,0 +1,24 @@
+.projects{
+    background-color:#00001600 ;
+}
+.projects
+.content{
+    margin-top: 30px;
+}
+.try{
+   color: blanchedalmond;
+}
+.project_card{
+    background-color: rgb(12, 202, 101);
+    border: 1px solid rgb(97, 0, 97);
+    width: 23em;
+    min-height: 14em;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 20px;
+    
+    
+}
+.project_image img{
+    width: 130%;
+}
